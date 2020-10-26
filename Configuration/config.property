@@ -1,0 +1,9 @@
+chromeDriver = C:\\Users\\seven\\Selenium Workspace\\learning_java\\src\\test\\resources\\Binaries\\chromedriver.exe
+
+msedgeDriver = C:\\Users\\seven\\Selenium Workspace\\learning_java\\src\\test\\resources\\Binaries\\msedgedriver.exe
+
+URL = http://demosite.center/wordpress/wp-login.php
+
+Actual = http://demosite.center/wordpress/wp-admin/
+
+Excelpath = C:\\Users\\seven\\Selenium Workspace\\com.wordpress\\src\\test\\resources\\XLSX\\TestData.xlsx

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="com.wordpress.tests.KeywordDrivenUsingExcel"/>
+      <class name="com.wordpress.tests.DataDrivenUsingDataProvider"/> 
+      <class name="com.wordpress.tests.WordpressValidLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
